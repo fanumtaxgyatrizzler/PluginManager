@@ -9,9 +9,9 @@
 
   <h2>Features</h2>
   <ul>
-    <li><strong>Mod Management:</strong> Plugin Manager simplifies the installation and management of mods for both Quest and PCVR platforms.</li>
+    <li><strong>Mod Management:</strong> Plugin Manager simplifies the installation and management of mods for Mac and Windows.</li>
     <li><strong>Easy Configuration:</strong> With an intuitive user interface, Plugin Manager makes modding accessible to all users.</li>
-    <li><strong>Quest Headset Modding:</strong> Unlock the full potential of your Quest headset with Plugin Manager's dedicated tools.</li>
+    <li><strong>Plugin Modding:</strong> Unlock the full potential of Galaxy Swapper.</li>
   </ul>
 
   <h2>✅Installation✅</h2>
