@@ -3,7 +3,8 @@
   <h1>🌌Plugin Manager🌌</h1>
   
   
-![320365635-9543ff67-06f8-4981-898a-ec9cc0c4e993](https://github.com/fanumtaxgyatrizzler/PluginManager/assets/166678949/1f36aab8-53ce-46db-a600-5ab4f92aa54c)
+![320365635-9543ff67-06f8-4981-898a-ec9cc0c4e993](https://github.com/fanumtaxgyatrizzler/PluginManager/assets/166678949/5ea775b4-4148-4f20-ac44-63dc0fd4460f)
+
 
 
   <h2>Features</h2>
